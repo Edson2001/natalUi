@@ -2,6 +2,7 @@
 import Container from "./components/Container.vue"
 import Menu from "./components/Menu.vue"
 import Button from "./components/Button.vue"
+import Footer from "./components/Footer.vue"
 </script>
 
 <template>
@@ -97,6 +98,8 @@ import Button from "./components/Button.vue"
     </Container>
 
   </section>
+
+  <Footer />
 
 </template>
 
